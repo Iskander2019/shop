@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+img {
+	width:100px;
+	height:100px;	
+}
+.Sens {
+	display:block;
+	border: 3px solid #0F6;
+	height:230px;
+	width:170px;
+	float:left;
+	margin:15px;
+	text-align:center;	
+}
+

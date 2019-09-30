@@ -1,0 +1,27 @@
+{
+"DUG-14" :{
+		"name" : "Датчик угарного газа",
+		"watt":1.1,
+		"disription": "От уг газа",
+		"image" : "../Images/DP-4.jpg"
+	}, 
+"DA-14" :{
+		"name" : "Датчик аммиака газа",
+		"watt":1.3,
+		"disription": "От уг газа",
+		"image" : "../Images/DA-14.jpg"
+	}, 
+"DT-14" :{
+		"name" : "Датчик температуры",
+		"watt":0.8,
+		"disription": "От уг газа",
+		"image" : "../Images/DT-14.jpg"
+	}, 
+"DM-14" :{
+		"name" : "Датчик метана газа",
+		"watt":2.5,
+		"disription": "От уг газа",
+		"image" : "../Images/DM-14.jpg"
+	}	
+	
+}
